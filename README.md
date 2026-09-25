@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Tuan 👋
 
-<!--
-**thtuancs/thtuancs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 Applied AI Engineer | 🤖 Agent builder | 📄 Document AI enjoyer
 
-Here are some ideas to get you started:
+`Knowledge Systems` `Multi-Agent` `VLM` `Document AI` `RAG` `LLM Inference`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Building AI systems around messy knowledge and real-world data.
+> Mostly interested in what happens after the model itself is no longer
+> the hardest part.
+
+## 👀 Currently exploring
+
+- 🧠 **Knowledge bases & graphs**
+- 🤖 **Multi-agent systems**
+- 👁️ **Vision-Language Models**
+- 📄 **Document understanding**
+- 🔎 **Retrieval & RAG**
+- ⚡ **Inference systems**
+
+### Repos on my radar
+
+[**vLLM**](https://github.com/vllm-project/vllm) ·
+[**pi**](https://github.com/earendil-works/pi) ·
+[**LightRAG**](https://github.com/HKUDS/LightRAG) ·
+[**Graphiti**](https://github.com/getzep/graphiti) ·
+[**PaddleOCR**](https://github.com/PaddlePaddle/PaddleOCR) ·
+[**InsightFace**](https://github.com/deepinsight/insightface)
+
+Sometimes building. Always experimenting.
+
+[@thtuancs](https://github.com/thtuancs)
